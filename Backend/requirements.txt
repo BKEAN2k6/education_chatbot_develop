@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+requests
+qdrant-client
+pypdf
+python-docx
+sqlalchemy
+openai

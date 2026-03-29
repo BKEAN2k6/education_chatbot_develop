@@ -1,0 +1,32 @@
+# ===== Backend (Python) =====
+__pycache__/
+*.pyc
+venv/
+Backend/venv/
+
+# Env (RẤT QUAN TRỌNG)
+.env
+Backend/.env
+Frontend/.env
+
+# Database
+app.db
+Backend/app.db
+
+# Upload files
+uploads/
+Backend/uploads/
+
+# ===== Frontend =====
+node_modules/
+Frontend/node_modules/
+dist/
+Frontend/dist/
+
+# ===== OS =====
+.DS_Store
+Thumbs.db
+
+# ===== VSCode =====
+.vscode/
+TEST_IGNORE_DEBUG
